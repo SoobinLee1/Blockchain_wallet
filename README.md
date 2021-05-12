@@ -21,8 +21,7 @@
 
 3. AWS EC2 에 등록 및 동작
 
-![image](https://user-images.githubusercontent.com/47470113/117952615-4ae1ce00-b350-11eb-8619-8ed18cccbbf2.png)
-
+![image](https://user-images.githubusercontent.com/47470113/117952757-6b118d00-b350-11eb-8245-bc063504b274.png)
 
 
 [dAPP 작동 시나리오]
