@@ -11,8 +11,18 @@
 
 
 [블록체인 서버]
-1. 스마트컨트랙트 배포 및 리워드 지급 수행
-2. AWS EC2 에 등록 및 동작
+1. GENESIS.json 생성 풀노드 관리
+
+![image](https://user-images.githubusercontent.com/47470113/117952310-05250580-b350-11eb-9645-1d02c561d2f8.png)
+
+2. 스마트컨트랙트 배포 및 리워드 지급 수행
+
+![image](https://user-images.githubusercontent.com/47470113/117952547-3998c180-b350-11eb-9963-0bea5433026f.png)
+
+3. AWS EC2 에 등록 및 동작
+
+![image](https://user-images.githubusercontent.com/47470113/117952615-4ae1ce00-b350-11eb-8619-8ed18cccbbf2.png)
+
 
 
 [dAPP 작동 시나리오]
