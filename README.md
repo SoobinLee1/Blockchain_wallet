@@ -13,7 +13,7 @@
 [블록체인 서버]
 1. GENESIS.json 생성 풀노드 관리
 
-![image](https://user-images.githubusercontent.com/47470113/117952310-05250580-b350-11eb-9645-1d02c561d2f8.png)
+![image](https://user-images.githubusercontent.com/47470113/117952878-8d0b0f80-b350-11eb-95ee-ef6a1a1a059f.png)
 
 2. 스마트컨트랙트 배포 및 리워드 지급 수행
 
