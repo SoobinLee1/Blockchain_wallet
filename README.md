@@ -10,5 +10,25 @@
 5) 결과/성과: 핀테크 해커톤 본선 진출
 
 
+[dAPP 작동 시나리오]
+1. 핸드폰 인증 API를 활용하여 사용자 실명 인증
+2. 실명 인증된 사용자에 한하여 블록체인 월렛 계정 발급
+3. 긍정적인 소비(친환경 소비)를 진행한 유저에 한하여 블록체인 기반 리워드 지급
+
 [WBS]
+
 ![image](https://user-images.githubusercontent.com/47470113/117949824-7c0ccf00-b34d-11eb-9c79-4eab8222aacb.png)
+
+
+[DB schema]
+
+![image](https://user-images.githubusercontent.com/47470113/117949905-947ce980-b34d-11eb-90d9-4761634896c9.png)
+
+
+[안드로이드 스튜디오 프론트엔드 실행 화면]
+
+![image](https://user-images.githubusercontent.com/47470113/117950068-c42bf180-b34d-11eb-9b5f-f2ca7857663e.png)
+
+
+[서버, 프론트 통신 설계]
+![image](https://user-images.githubusercontent.com/47470113/117950494-33a1e100-b34e-11eb-9d8f-f71bf7366c95.png)
